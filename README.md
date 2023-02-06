@@ -1,0 +1,2 @@
+- Jupyter Notebooks containing code on some basic methods and algorithms.
+- Code is written using real life examples and data.
